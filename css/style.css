@@ -235,11 +235,15 @@ header .intro-text {
 header .fouronthefloor {
 	padding-top: 100px;
 	padding-bottom: 50px;
-	background-image: url(../assets/me.jpg);
+	background-image: url(../assets/fouronthefloor.jpg);
 }
 
 @media (min-width: 768px) {
 	header .intro-text {
+		padding-top: 230px;
+		padding-bottom: 400px;
+    }
+	header .fouronthefloor {
 		padding-top: 230px;
 		padding-bottom: 400px;
     }
